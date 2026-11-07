@@ -1,6 +1,6 @@
 <div align="center">
 
-<h2>AnonXMusic</h2>
+<h2>AtulXMusic</h2>
 
 <b>Telegram Group Calls Streaming Bot</b><br>
 Supports YouTube, Spotify, Resso, Apple Music, SoundCloud and M3U8 links.
@@ -168,8 +168,8 @@ This project is licensed under the <b>MIT License</b> — see <a href="https://g
 
 <h2>🤞 Updates and support</h2>
 
-- <a href="https://fallenx.t.me">Updates channel</a>
-- <a href="https://DevilsHeavenMF.t.me">Support group</a>
+- <a href="https://stupidrishna.t.me">Updates channel</a>
+- <a href="https://t.me/+sJQ6wW3eGSg3MDk1">Support group</a>
 
 <hr>
 
